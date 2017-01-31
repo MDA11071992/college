@@ -1,6 +1,9 @@
 # Created by .ignore support plugin (hsz.mobi)
-# Int
+# IntelliJ IDEA
 .idea
 .editorconfig
 .gitattributes
 .htaccess
+
+# Video
+*.mp4
